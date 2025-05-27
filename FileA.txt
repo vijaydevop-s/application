@@ -1,2 +1,6 @@
 This is File A
+<<<<<<< HEAD
 this is modified file
+=======
+this is modified -1
+>>>>>>> FeatureA
